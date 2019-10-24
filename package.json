@@ -1,0 +1,19 @@
+{
+  "name": "bot-video-maker",
+  "version": "1.0.0",
+  "description": "Bot que utiliza inteligencia artificial para baixar conteúdo da internet criar vídeos e fazer upload no youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanezandrades/bot-video-maker.git"
+  },
+  "author": "joanez93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanezandrades/bot-video-maker/issues"
+  },
+  "homepage": "https://github.com/joanezandrades/bot-video-maker#readme"
+}
