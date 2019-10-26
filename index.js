@@ -6,7 +6,9 @@ const robots = {
 
 async function start()
 {
-    const content = {};
+    const content = {
+        limitMaximumSentences: 7
+    };
     content.searchTerm = askAndReturnSearchTerm();
     content.prefix = askAndReturnPrefix();
     
