@@ -41,7 +41,6 @@ async function robot()
         const withOutDatesInParentheses = removeDatesInParentheses(withoutBlankLinesAndMarkdown);
 
         content.sourceContentSanitized = withOutDatesInParentheses;
-        // console.log(withOutDatesInParentheses);
 
         function removeBlankLinesAndMarkdown(text)
         {
